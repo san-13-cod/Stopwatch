@@ -1,0 +1,26 @@
+#stopwatch{
+  background-color: darkslategrey;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+#timer
+{
+  background-color: tomato;
+  border-radius: 15px;
+  padding: 15px;
+}
+#timer button
+{
+  border-radius: 5px;
+}
+
+/* Assuming you already have some styles defined for the "footer" class */
+.footer {
+  position: fixed;
+  bottom: 0;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width: 100%;
+  height: 7%;
+}
